@@ -207,7 +207,7 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Wazuh Dashboard and Connected Agents
 
-![Wazuh agents overview](screenshots/02-connected-agents.png)
+![Wazuh agents overview](screenshots/Screenshot 2026-10-19 192622.png)
 
 *Windows and Ubuntu endpoints connected to the Wazuh manager.*
 
