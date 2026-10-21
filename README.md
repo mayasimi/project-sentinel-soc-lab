@@ -212,7 +212,7 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Archive Logging
 
-![Archive events](screenshots/Screenshot%202026-10-19%20192738.png)
+![Archive events](screenshots/Screenshot%202026-10-19%20191508.png)
 
 *Archived Wazuh events available for investigation.*
 
