@@ -242,7 +242,7 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Custom Monitoring Dashboard
 
-![SOC dashboard](screenshots/10-soc-dashboard.png)
+![SOC dashboard](screenshots/Screenshot%202026-10-17%20044806.png)
 
 *Project Sentinel monitoring dashboard.*
 
