@@ -1,0 +1,9 @@
+# Project Sentinel: Wazuh archive module
+# Reference snippet only. Preserve the rest of filebeat.yml.
+
+filebeat.modules:
+  - module: wazuh
+    alerts:
+      enabled: true
+    archives:
+      enabled: true
