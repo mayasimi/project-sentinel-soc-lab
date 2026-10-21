@@ -212,13 +212,13 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Archive Logging
 
-![Archive events](screenshots/04-archive-events.png)
+![Archive events](screenshots/Screenshot%202026-10-19%20192738.png)
 
 *Archived Wazuh events available for investigation.*
 
 ### Sysmon Telemetry
 
-![Sysmon events](screenshots/05-sysmon-events.png)
+![Sysmon events](screenshots/Screenshot%202026-10-19%20192738.png)
 
 *Windows Sysmon events collected and displayed in Wazuh.*
 
