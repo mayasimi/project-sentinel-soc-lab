@@ -2,7 +2,7 @@
 
 **A hands-on Security Operations Center (SOC) lab focused on endpoint monitoring, security event investigation, detection engineering, and file integrity monitoring across Windows and Ubuntu.**
 
-![Project Sentinel Cover](screenshots/project-sentinel-cover.png)
+![Project Sentinel Cover](screenshots/08119031-2407-411b-9f65-7d925a4679b7.png)
 
 ## Overview
 
