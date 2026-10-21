@@ -224,7 +224,7 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Custom Detection Rule
 
-![Custom detection rule](screenshots/06-custom-detection-rule.png)
+![Custom detection rule](screenshots/Screenshot%202026-10-17%20174342.png)
 
 *Custom rule targeting Windows Guest account enablement.*
 
