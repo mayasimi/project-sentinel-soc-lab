@@ -1,0 +1,7 @@
+<!-- Project Sentinel: Wazuh archive logging settings -->
+<ossec_config>
+  <global>
+    <logall>yes</logall>
+    <logall_json>yes</logall_json>
+  </global>
+</ossec_config>
