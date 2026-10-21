@@ -230,7 +230,7 @@ The screenshots below document key implementation steps and findings. Replace ea
 
 ### Ubuntu File Integrity Monitoring
 
-![Ubuntu FIM](screenshots/08-ubuntu-fim.png)
+![Ubuntu FIM](screenshots/Screenshot%202026-10-17%20172726.png)
 
 *Wazuh detected a modification to `/opt/company-data/test.txt`.*
 
