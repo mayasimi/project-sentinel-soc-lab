@@ -1,0 +1,23 @@
+```xml
+<!-- Project Sentinel: Windows Guest Account Detection Rule -->
+
+<group name="windows,account_management,">
+
+  <!-- Detect when the Windows Guest account is enabled -->
+  <rule id="100200" level="12">
+    <if_sid>60100</if_sid>
+    <field name="win.system.eventID">^4722$</field>
+    <field name="win.eventdata.targetUserName" type="pcre2">^Guest$</field>
+    <description>Windows Guest account was enabled (Event ID 4722).</description>
+  </rule>
+
+  <!-- Detect when the Windows Guest account is disabled -->
+  <rule id="100201" level="12">
+    <if_sid>60100</if_sid>
+    <field name="win.system.eventID">^4725$</field>
+    <field name="win.eventdata.targetUserName" type="pcre2">^Guest$</field>
+    <description>Windows Guest account was disabled (Event ID 4725).</description>
+  </rule>
+
+</group>
+```
